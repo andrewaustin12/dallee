@@ -3,14 +3,15 @@ Full Stack MERN AI Image Generation App
 
 # Preview of app
 
-![Home Page]('../dallee/client/src/assets/HomePage.png )
-![Create Post Page]('../dallee/client/src/assets/CreatePost.png )
+<img src="../dallee/images/HomePage.png" alt="home page" width="500"/>
+<img src="../dallee/images/CreatePost.png" alt="create post page" width="500"/>
 
 
 ## Technologies used
-  * React
-  * Tailwind
-  * Built with Vite
+  * Node.js, Express.js, MongoDB, and React.js
+  * Tailwind CSS
+  * OpenAI's DALL-E model: A deep learning model that generates images from text input
+  * Cloudinary: A cloud-based image storage service
 
 
 # How to run the app
