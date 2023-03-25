@@ -1,6 +1,11 @@
 # dallee
 Full Stack MERN AI Image Generation App
 
+# Preview of app
+
+![Home Page]('../dallee/client/src/assets/HomePage.png )
+![Create Post Page]('../dallee/client/src/assets/CreatePost.png )
+
 
 ## Technologies used
   * React
