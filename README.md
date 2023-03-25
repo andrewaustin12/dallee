@@ -3,8 +3,8 @@ Full Stack MERN AI Image Generation App
 
 # Preview of app
 
-<img src="../dallee/images/HomePage.png" alt="home page" width="500"/>
-<img src="../dallee/images/CreatePost.png" alt="create post page" width="500"/>
+![alt text](/images/HomePage.png "Title")
+![alt text](/images/CreatePost.png "Title")
 
 
 ## Technologies used
